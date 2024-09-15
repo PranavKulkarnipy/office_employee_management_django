@@ -1,30 +1,23 @@
 
 # Project Title
 
-Office Employment Management System
+# Office Employment Management System
 
-Description:
+### Description:
 
 The Office Employee Management System is a scalable and reliable Django-based application developed for efficiently managing employee-related tasks within an office environment. 
-It utilizes Python and Django with SQLite as the backend database. On the frontend, HTML, CSS, and JavaScript have been employed to create a user-friendly interface for seamless navigation and interaction.
+.
 
-Technologies Used:
+### Technologies Used:
 
--Python
-
--Django
-
--Object-Oriented Programming (OOP)
-
--HTML
-
--Bootstrap
-
--SQLite
+ - **Backend**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+- **Frontend**: ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+- **Database**: ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 
 
-Features:
+
+### Features:
 
 1)Detailed Employee Information: View comprehensive details about each employee, including their name, department, role, contact number, and date of joining, facilitating informed decision-making.
 
@@ -43,7 +36,7 @@ Features:
 
 
 
-## Installation and runserver
+### Installation and runserver
 
 
 Installation Steps
